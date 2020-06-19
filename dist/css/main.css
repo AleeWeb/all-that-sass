@@ -1,6 +1,14 @@
 body {
   background: #272727;
   color: #fff;
-  font-weight: map-ge(("regular": 400, "medium": 500, "bold": 700), bold);
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main .main__paragraph {
+  font-weight: 700;
 }
 /*# sourceMappingURL=main.css.map */
